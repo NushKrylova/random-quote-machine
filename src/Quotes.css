@@ -52,5 +52,6 @@
 }
 
 .btn-custom:hover {
-  background-color: var(--blue-dark-color)
+  background-color: var(--blue-dark-color);
+  color: white;
 }
